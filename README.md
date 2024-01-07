@@ -1,12 +1,17 @@
-Intern Army - Tech Internship Tasks Repository
+>>>>> Intern Army - Tech Internship Tasks Repository  <<<<<
+
 
 Welcome to the Intern Army Tech Internship repository! 🚀 This repository is dedicated to housing all the tasks and projects assigned during the internship period. As aspiring tech professionals, let's collaboratively tackle challenges, share our progress, and showcase our skills.
 
 Folder Structure:
 
 Each task has its dedicated folder.
+
 Clear documentation and code organization.
+
 Regular updates and commits to track your journey.
+
+
 How to Use:
 
 Clone this repository to your local machine.
